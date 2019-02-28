@@ -1,0 +1,30 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "scripts": true,
+    "build": true,
+    "dist": true,
+    "test": true,
+    "config": true,
+    ".prettierrc": true,
+    ".gitignore": true,
+    ".npmignore": true,
+    ".npmrc": true,
+    // "README.md": true,
+    "yarn.lock": true,
+    "Dockerfile": true,
+    "images.d.ts": true,
+    "package-lock.json": true,
+  },
+  "editor.tabSize": 4,
+  "emmet.triggerExpansionOnTab": true,
+	"emmet.showAbbreviationSuggestions": true,
+	"emmet.showExpandedAbbreviation": "always",
+	"vetur.format.defaultFormatter.html": "prettyhtml",
+	"vetur.format.defaultFormatterOptions": {
+		"prettyhtml": {
+			"tabWidth": 4,
+			"printWidth": 120
+		}
+	}
+}
