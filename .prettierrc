@@ -1,0 +1,9 @@
+{
+	"tabWidth": 4,
+	"eslintIntegration": true,
+	"stylelintIntegration": true,
+	"useTabs": true,
+	"printWidth": 150,
+	"semi": true,
+	"proseWrap": "preserve"
+}
