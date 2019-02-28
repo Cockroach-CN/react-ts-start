@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Header from "./layout/Header";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import "./App.css";
+import "./App.less";
 
 import PageA from "./test/PageA";
 import PageB from "./test/PageB";
